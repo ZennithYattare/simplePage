@@ -51,7 +51,7 @@ const InputBox = ({ id, name, type, autoComplete }) => {
 const content = (
 	<>
 		<div className="flex h-screen w-screen place-items-center bg-[#55aaaa]">
-			<div className="mx-1 w-[600px] min-w-[420px] max-w-xl border-4 border-t-slate-200 border-l-slate-200 border-r-[#cccccc] border-b-[#cccccc] bg-[#c0c0c0] shadow-[5px_5px_5px_black] sm:mx-auto">
+			<div className="mx-1 w-[600px] min-w-[420px] max-w-xl border-4 border-t-slate-200 border-l-slate-200 border-r-[#808080] border-b-[#808080] bg-[#c0c0c0] shadow-[5px_5px_5px_black] sm:mx-auto">
 				<div className="bg-gradient-to-r from-[#000281] to-[#1084d0] p-1 font-mono text-lg font-bold text-gray-50 transition duration-700 ease-in-out">
 					Acitivity 1: Sign Up
 				</div>
