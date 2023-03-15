@@ -10,28 +10,24 @@ const inputBox = [
 		name: "firstName",
 		type: "text",
 		autoComplete: "given-name",
-		// placeholder: "First name",
 	},
 	{
 		id: "last-name",
 		name: "lastName",
 		type: "text",
 		autoComplete: "family-name",
-		// placeholder: "Last name",
 	},
 	{
 		id: "email-address",
 		name: "email",
 		type: "email",
 		autoComplete: "email",
-		// placeholder: "Email address",
 	},
 	{
 		id: "password",
 		name: "password",
 		type: "password",
 		autoComplete: "current-password",
-		// placeholder: "Password",
 	},
 ];
 
@@ -107,7 +103,6 @@ const content = (
 								name={input.name}
 								type={input.type}
 								autoComplete={input.autoComplete}
-								// placeholder={input.placeholder}
 							/>
 						))}
 					</div>
