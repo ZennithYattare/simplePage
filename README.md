@@ -1,5 +1,4 @@
 # IT ELEC4C: Activity 1 - Sign UP
-Accomplished as a part of the Front End Development Libraries certification.
 
 GitHub Pages: https://zennithyattare.github.io/simplePage/
 
